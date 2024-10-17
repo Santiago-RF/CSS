@@ -1,0 +1,28 @@
+.content{
+    font-family: serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0%;
+}
+.Body{
+    box-shadow: 0 0 20px red;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    margin-top: 0%;
+    border: 10px;
+}
+.Texto{
+    color: black;
+    text-align: center;
+}
+.Titulo{
+    color: grey;
+    text-align: center;
+}
+.Descripcion{
+    color: gray;
+    text-align: center;
+}
